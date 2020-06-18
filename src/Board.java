@@ -15,7 +15,7 @@ public class Board {
     //the path of the parents boards
     private String path;
 
-    
+
 
     /**
      * assigning the instance fields with values
